@@ -1,4 +1,4 @@
-# image_slicer_overlay
+# image slicer with overlay
 
 stride_x = satır boyunca öteleme
 
